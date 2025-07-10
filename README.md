@@ -1,6 +1,8 @@
 # Penampil Deret Angka
 Ini adalah program penampil deret angka yang menggunakan bahasa pemrograman C
 
+## Fitur
+
 Terdiri dari:
 1. Deret Angka Ganjil
 2. Deret Angka Genap
