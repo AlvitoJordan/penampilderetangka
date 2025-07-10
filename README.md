@@ -1,5 +1,5 @@
 # Penampil Deret Angka
-Ini adalah program penampil deret angka yang menggunakan bahasa pemrograman C
+Ini adalah program penampil deret angka yang menggunakan bahasa pemrograman C. Program ini berfungsi untuk menampilkan deret angka sesuai pola tertentu yang ditentukan oleh pengguna.
 
 
 ## Fitur
